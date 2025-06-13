@@ -4,13 +4,7 @@ Fluxbox personalizado en español para Ordenadores con pocos recursos
 # Requerimientos
 Se requiere lo sigiente:
 
-- Debian 11 KDE, MX Linux 21 KDE
-- Debian 12 KDE, MX Linux 23 KDE
-
-**Descargar:**
-
-[https://facilitarelsoftwarelibre.blogspot.com/2023/09/donde-descargar-debian-11-bullseye.html.html](https://facilitarelsoftwarelibre.blogspot.com/2023/09/donde-descargar-debian-11-bullseye.html.html)
-
+- MX Linux 23 (XFCE)
 
 
 # Instalación de Fluxbox y dependencias
